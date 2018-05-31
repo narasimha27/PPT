@@ -1,2 +1,2 @@
 # PPT
-Programming Periodic Table
+Programming Periodic Table easy to use
